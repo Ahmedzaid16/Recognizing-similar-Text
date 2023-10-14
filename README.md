@@ -1,4 +1,4 @@
-# Recognizing-similar-Text
+# Recognizing similar Text
 ## This is a project using NLP to Recognize similar Text based on machine lerning 
 ## - Data
 We Used <a href="https://www.kaggle.com/competitions/quora-question-pairs">quora-question-pairs</a> Dataset to Train our Model <br>
