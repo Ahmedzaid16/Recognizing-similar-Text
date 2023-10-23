@@ -6,7 +6,7 @@ First we rebalanced the date because of The gab between the two classes of the d
 ![image](https://github.com/Ahmedzaid16/Recognizing-similar-Text/assets/84353686/262fba09-fce0-4513-855d-ee104bdd0db6)
 <br>
 ## - Cleaning data
-Data clening and preprocessing is an important stage to remove unwanted and meaningless words and symbols so we shosed to do the following steps:
+Data clening and preprocessing is an important stage to remove unwanted and meaningless words and symbols so we chosed to do the following steps:
 - Removing Null values 
 - Tokenization
 - Stemming
